@@ -1,4 +1,4 @@
-### 前端开发者手册
+# 前端开发者手册
 
 > 本开源书 forked from [前端开发者手册](https://github.com/dwqs/front-end-handbook)，作者为 [dwqs](https://github.com/dwqs)，欢迎大家 star 原作者的 [repo](https://github.com/dwqs/front-end-handbook)，以便获得最新更新，谢谢！
 
