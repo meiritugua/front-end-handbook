@@ -1,5 +1,7 @@
 ### 前端开发者手册
 
+> 本开源书 forked from [前端开发者手册](https://github.com/dwqs/front-end-handbook)，作者为 [dwqs](https://github.com/dwqs)，欢迎大家 star 原作者的 [repo](https://github.com/dwqs/front-end-handbook)，以便获得最新更新，谢谢！
+
 这是任何人都可以用来学习前端的实践手册, 它概述并讨论了前端工程的实践: 该如何学习以及实践时该使用什么工具.
 
 撰写该手册的目的有两个: 一是为潜在以及正在实践的前端开发人员提供一个包括学习资料和开发工具的专业资源; 二是该手册可以被管理者, CTO, 讲师和猎头用来作为洞察前端开发的实践.
